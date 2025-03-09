@@ -21,20 +21,20 @@
     },
     "STRING_SESSION": {
       "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن بـوت تيرمكــس",
-      "value": ""
+      "value": "1BJWap1sBu6sGMJ9rISlP9m9NNFqBGtmNnO-0Id4nmh_AC3IKGI3KdoxkLGEZdAipYmNd6_kL_J8grNcZqnYEy1JlrPZs3f-hj0ywRxPjFWPZLH40cT7T6ks0dduJj8o6aPlmiFz-WDrHxlXVveSQ_tlgJmSTJLHZTqlbLgCJFesOpSMPz-I4hyB9Uv3mIvGf13u3cph9H90jw9zdCkq5Z8cpXofzp4DkyX7KaDgprFJtWsEyLrXrcjwShCSxgWxaBGwZJbzzMVO63NiGq70cbbUFTU5FucOBWKi0T0teJ3a9g4Astczf8XsnPWQ6UDk0aFPu7-SUXYawaFgjUi9nxEeqHbrWlJI="
     },
     "TG_BOT_TOKEN": {
       "description": "تـــوكـــن البـــوت - من بـوت فـاذر〔 @Botfather 〕..",
-      "value": ""
+      "value": "8137011731:AAELzzuemfhy-TgtepEjeGcEDLz8QmiuCTY"
     },
     "HEROKU_API_KEY": {
       "description": "كـــود مفتـــاح هيروكـــو - تروح ع الرابـط » https://dashboard.heroku.com/account  ع آخـر خانـه وتنسـخ الكـود لهنـا",
-      "value": "",
+      "value": "HRKU-02eb8d27-e540-4c62-8757-9afb6fb56477",
       "required": false
     },
     "HEROKU_APP_NAME": {
       "description": "اســـم التطبيـــق - نفـس اول مربـع بالقائمـة نسـخ لصـق حـروف انكلـش صغيـره",
-      "value": "",
+      "value": "mohammed",
       "required": false
     }
   },
